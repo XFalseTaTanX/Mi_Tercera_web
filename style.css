@@ -1,0 +1,38 @@
+h2{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+}
+body{
+    background-color: antiquewhite;
+}
+p{
+    color: orange;
+    text-align: end;
+    font-family: 'Knewave', cursive;
+}
+.img{
+    display: flex;
+    justify-content:center;
+}
+.IMG{
+    width: 80%;
+}
+.enfatizar{
+    color:rgb(0, 0, 0);    
+}
+#negrilla{
+    color: blue;
+}
+a{
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-image: url();
+}
